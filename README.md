@@ -53,4 +53,5 @@ Figure S3: Biplots for the combinations of the first three principal components 
 
 # Copy of Poster
 <br>
-<img width="6480" height="4320" alt="image" src="https://github.com/user-attachments/assets/70c853c9-25a5-45a9-9558-fadca0c86abf" />
+
+[AGU_Poster_Ch_2.pdf](https://github.com/user-attachments/files/24118358/AGU_Poster_Ch_2.pdf)
