@@ -30,13 +30,14 @@ Figure S2: Scree plot for indicating variance explained by each principal compon
 <br>
 
 Table 3.6 Variable loading scores within each of the selected principal components (PCs). Bold indicates that the variable had a strong contribution to the individual PC.
-Variable  PC-1	PC-2	PC-3
-Leaf-Mass-per-Area (g/m2)	0.657	0.214	0.069
-Water Content (%)	-0.643	-0.302	-0.003
-Dry Biomass (g)	0.311	-0.583	0.347
-Anthocyanins (mg/gFW)	0.212	-0.723	-0.258
-Chlorophyll (mg/gFW)	 0.112	 0.000	 -0.899
 <br>
+Variable  PC-1	PC-2	PC-3 <br>
+Leaf-Mass-per-Area (g/m2)	0.657	0.214	0.069 <br>
+Water Content (%)	-0.643	-0.302	-0.003 <br>
+Dry Biomass (g)	0.311	-0.583	0.347 <br>
+Anthocyanins (mg/gFW)	0.212	-0.723	-0.258 <br>
+Chlorophyll (mg/gFW)	 0.112	 0.000	 -0.899 <br>
+
 <br>
 <br>
 <br>
